@@ -11,3 +11,7 @@
  ```
  $. scanjars.sh <target_dir>
  ```
+## Dependencies
+* bash
+* zip
+* unzip
