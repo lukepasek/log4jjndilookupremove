@@ -4,7 +4,7 @@
  ## Usage
  On Linux or other \*nix system just run this script in the directory you want to scan, or add the target directory as first parameter:
  ```
- $. scanjars.sh <target_dir>
+ $. scanjars.sh
  ```
  or
  ```
